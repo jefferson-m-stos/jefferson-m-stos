@@ -11,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.instagram.com/jeff_mourastos" target="_blank" rel="nofollow"><img src="https://skillicons.dev/icons?i=instagram" alt="icon-instagram" /></a>
-  <a href="https://www.linkedin.com/in/jefferson-m-s" target="_blank" rel="nofollow"><img src="https://skillicons.dev/icons?i=linkedin" alt="icon-linkedin" /></a>
+  <a href="https://www.instagram.com/jeff_mourastos" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="icon-instagram" /></a>
+  <a href="https://www.linkedin.com/in/jefferson-m-s" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="icon-linkedin" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
